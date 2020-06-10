@@ -1,12 +1,12 @@
 {
   "name": "@frdl/frdlweb-api-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper functions to use the frdlweb apis",
   "main": "index.js",
   "author": "Till Wehowski",
   "license": "MIT",
-  "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/" 
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
     "@frdl/webfantize": "latest"
