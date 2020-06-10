@@ -1,0 +1,11 @@
+{
+  "name": "@frdl/frdlweb-api-helper",
+  "version": "1.0.0",
+  "description": "Helper functions to use the frdlweb apis",
+  "main": "index.js",
+  "author": "Till Wehowski",
+  "license": "MIT",
+  "dependencies": {
+    "@frdl/webfantize": "latest"
+  }
+}
